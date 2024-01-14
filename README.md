@@ -24,9 +24,7 @@ Para atmosphere: `Atmosphere/contents/0100c0000ceea000`
 Para SXOS: `SXOS/titles/0100c0000ceea000`
 
 # Creditos
-- Vitaliy K. ([@Vitalkrilov](https://github.com/Vitalkrilov)) \- Traduccion entera del juego a ingles. (textos)
-
-- Yo-kai Watch 4 English Translation Mod Team (check [gbatemp.net page](https://gbatemp.net/threads/wip-yo-kai-watch-1-switch-english-translation-project.577591/)) - Base del juego en inglés.
+- Yo-kai Watch 1 Switch English Translation Mod Team (check [gbatemp.net page](https://gbatemp.net/threads/wip-yo-kai-watch-1-switch-english-translation-project.577591/)) - Base del juego en inglés.
 
 # PROJECT MAKE A DREAM
 Make a Dream es un servidor de discord en el que están varias de las traducciones de los juegos de Yo-kai watch al español, mangas, y fan-games hechos por la comunidad.
