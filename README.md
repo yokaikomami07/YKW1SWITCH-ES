@@ -16,12 +16,12 @@ En el directorio de datos de Ryujinx:
  - `/home/{USERNAME}/.config/Ryujinx/` en **Linux**.
  - `C:\users\{USERNAME}\AppData\Roaming\Ryujinx` en **Windows**.
 
-Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...Ryujinx}/mods/contents/010086c00af7c000/`
+Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...Ryujinx}/mods/contents/0100c0000ceea000/`
 
 ### Switch
-Para atmosphere: `Atmosphere/contents/010086c00af7c000`
+Para atmosphere: `Atmosphere/contents/0100c0000ceea000`
 
-Para SXOS: `SXOS/titles/010086c00af7c000`
+Para SXOS: `SXOS/titles/0100c0000ceea000`
 
 # Creditos
 - Vitaliy K. ([@Vitalkrilov](https://github.com/Vitalkrilov)) \- Traduccion entera del juego a ingles. (textos)
