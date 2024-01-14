@@ -1,17 +1,17 @@
 <div align="center">
-    <img src="./images/logo.png"/>
+    <img src="./images/yo-kai-switch-soda1.png"/>
     <a href="https://github.com/REY3DS/YKW4_ES/stargazers"><img src="https://img.shields.io/github/stars/REY3DS/YKW4_ES"/></a>
     <a href="https://github.com/REY3DS/YKW4_ES/releases"><img src="https://img.shields.io/github/v/release/REY3DS/YKW4_ES"/></a>
     <a href="https://github.com/REY3DS/YKW4_ES/releases"><img src="https://img.shields.io/github/downloads/REY3DS/YKW4_ES/total"/></a>
     <a href="https://github.com/REY3DS/YKW4_ES/blob/main/LICENSE"><img src="https://img.shields.io/github/license/REY3DS/YKW4_ES"/></a>
 </div>
 
-# Yo-Kai Watch 4++ Traduccion al español
+# Yo-Kai Watch 1 Switch Traduccion al español
 Juego siendo traducido de manera manual desde la versión traducida al ingles.
 # Importante
 Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un issue: [**ERROR**](https://github.com/REY3DS/YKW4_ES/issues)
 
-**Es necesaria la actualización 2.2.0 del juego para que todo funcione sin errores.**
+**Es necesaria la actualización 1.3.0 del juego para que todo funcione sin errores.**
 # Instalación
 Descarga la última versión desde [***releases***](https://github.com/REY3DS/YKW4_ES/releases)
 
