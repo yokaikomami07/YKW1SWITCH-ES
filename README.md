@@ -9,7 +9,7 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 
 **Es necesaria la actualización 1.3.0 del juego para que todo funcione sin errores.**
 # Instalación
-Descarga la última versión desde [***releases***](https://github.com/REY3DS/YKW4_ES/releases)
+Descarga la última versión desde [***releases***](https://github.com/yokaikomami07/YKW1SWITCH-ES/releases)
 
 ### Ryujinx:
 En el directorio de datos de Ryujinx:
