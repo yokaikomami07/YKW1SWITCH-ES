@@ -5,8 +5,6 @@
 # Yo-Kai Watch 1 Switch Traduccion al español
 Juego siendo traducido de manera manual desde la versión traducida al ingles.
 # Importante
-Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un issue: [**ERROR**](https://github.com/yokaikomami07/YKW1SWITCH-ES/issues)
-
 **Es necesaria la actualización 1.3.0 del juego para que todo funcione sin errores.**
 # Instalación
 Descarga la última versión desde [***releases***](https://github.com/yokaikomami07/YKW1SWITCH-ES/releases)
