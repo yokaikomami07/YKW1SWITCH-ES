@@ -1,9 +1,4 @@
 <div align="center">
-    <img src="./images/yo-kai-switch-soda1.png"/>
-    <a href="https://github.com/REY3DS/YKW4_ES/stargazers"><img src="https://img.shields.io/github/stars/REY3DS/YKW4_ES"/></a>
-    <a href="https://github.com/REY3DS/YKW4_ES/releases"><img src="https://img.shields.io/github/v/release/REY3DS/YKW4_ES"/></a>
-    <a href="https://github.com/REY3DS/YKW4_ES/releases"><img src="https://img.shields.io/github/downloads/REY3DS/YKW4_ES/total"/></a>
-    <a href="https://github.com/REY3DS/YKW4_ES/blob/main/LICENSE"><img src="https://img.shields.io/github/license/REY3DS/YKW4_ES"/></a>
 </div>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
