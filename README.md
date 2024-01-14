@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="./images/yo-kai-switch-soda1.png"/>
 </div>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
