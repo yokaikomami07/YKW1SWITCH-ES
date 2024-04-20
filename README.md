@@ -1,7 +1,9 @@
 <div align="center">
     <img src="./images/yo-kai-switch-soda1.png"/>
     <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/stargazers"><img src="https://img.shields.io/github/stars/yokaikomami07/YKW1SWITCH-ES"/></a>
+    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/v/release/yokaikomami07/YKW1SWITCH-ES"/></a>
     <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/downloads/yokaikomami07/YKW1SWITCH-ES/total"/></a>
+    <a href="https://github.com/YKW1SWITCH-ES/releases/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YKW1SWITCH-ES/releases"/></a>
 </div>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
