@@ -1,9 +1,20 @@
 <div align="center">
     <img src="./images/yo-kai-switch-soda1.png"/>
-    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/stargazers"><img src="https://img.shields.io/github/stars/yokaikomami07/YKW1SWITCH-ES"/></a>
-    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/v/release/yokaikomami07/YKW1SWITCH-ES"/></a>
-    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/downloads/yokaikomami07/YKW1SWITCH-ES/total"/></a>
 </div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/stargazers"><img src="https://img.shields.io/github/stars/yokaikomami07/YKW1SWITCH-ES"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/v/release/yokaikomami07/YKW1SWITCH-ES"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/downloads/yokaikomami07/YKW1SWITCH-ES/total"/></a>
+    </td>
+  </tr>
+</table>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
 Juego siendo traducido de manera manual desde la versión traducida al ingles.
