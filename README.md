@@ -1,5 +1,6 @@
 <div align="center">
     <img src="./images/yo-kai-switch-soda1.png"/>
+    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/stargazers"><img src="https://img.shields.io/github/stars/yokaikomami07/YKW1SWITCH-ES"/></a>
     <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/downloads/yokaikomami07/YKW1SWITCH-ES/total"/></a>
 </div>
 
