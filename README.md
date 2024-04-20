@@ -1,5 +1,6 @@
 <div align="center">
     <img src="./images/yo-kai-switch-soda1.png"/>
+    <a href="https://github.com/yokaikomami07/YKW1SWITCH-ES/releases"><img src="https://img.shields.io/github/downloads/yokaikomami07/YKW1SWITCH-ES/total"/></a>
 </div>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
