@@ -17,7 +17,7 @@
 </table>
 
 # Yo-Kai Watch 1 Switch Traduccion al español
-Juego siendo traducido de manera manual desde la versión traducida al ingles.
+Juego siendo traducido de manera manual desde la versión Japonesa.
 # Importante
 **Es necesaria la actualización 1.3.0 del juego para que todo funcione sin errores.**
 # Instalación
