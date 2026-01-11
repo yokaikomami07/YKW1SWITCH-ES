@@ -29,6 +29,7 @@ En el directorio de datos de Ryujinx:
  - `C:\users\{USERNAME}\AppData\Roaming\Ryujinx` en **Windows**.
 
 Lo más probable es que la carpeta donde se necesiten poner los datos sea en `{...Ryujinx}/mods/contents/0100c0000ceea000/`
+Si no funciona, es porque en las versiones más recientes se ha hablitado la carpeta atmosphere, prueba poniendo los datos en `{...Ryujinx}/sdcard/atmosphere/contents/0100c0000ceea000/` 
 
 ### Switch
 Para atmosphere: `Atmosphere/contents/0100c0000ceea000`
